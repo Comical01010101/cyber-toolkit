@@ -1,4 +1,4 @@
-# Cyber Mini-Defense Toolkit
+# Cyber Mini Defense Toolkit
 
 ## Overview
 This project was developed as part of the GET IT Intro to Cybersecurity program.
