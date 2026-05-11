@@ -1,16 +1,21 @@
-# Project Reflection – Module 03
+# Final Project Reflection
+
+## What I Built
+I built a cybersecurity toolkit that includes multiple tools such as password 
+checking, encryption, and log analysis.
 
 ## What I Learned
-I learned how cybersecurity tools can detect threats such as weak passwords, suspicious logins, and phishing attempts.
+I learned how cybersecurity tools work to protect systems and detect threats 
+such as weak passwords, suspicious logins, and phishing attempts.
+
+## Challenges Faced
+I had challenges with debugging code and understanding how encryption works. 
+I overcame these by testing each part step by step.
 
 ## AI in Cybersecurity
-AI can help analyze large amounts of data quickly and identify patterns that humans might miss.
-
-## Risks of AI
-AI is not always correct and may produce false results. Attackers can also use AI to create more advanced attacks.
-
-## Responsible Use
-AI should be used with human oversight to ensure accuracy and ethical decision-making.
+AI can help detect patterns and threats faster than manual analysis, but it 
+must be used carefully with human oversight to avoid errors.
 
 ## Future Improvements
-I would like to improve my project by adding better detection logic and more advanced analysis tools.
+I would improve this project by adding more advanced detection methods and 
+improving the user interface.
